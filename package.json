@@ -4,7 +4,7 @@
   "description": "Simple tabs control for your angular2 applications using bootstrap3.",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "private": true,
+  "private": false,
   "author": {
     "name": "Umed Khudoiberdiev",
     "email": "pleerock.me@gmail.com"
